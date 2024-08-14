@@ -24,7 +24,7 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 -When new button is clicked, other control buttons and navigation button are disabled.
 ![Untitled](https://github.com/AKMaster1709/employee-form/blob/main/assets/Untitled.png)
 -When multiple records in database , it provides controls on  navigation.
-![Screens![Screenshot_14-8-2024_201130_127.0.0.1](https://github.com/AKMaster1709/employee-form/blob/main/assets/Screenshot_14-8-2024_201130_127.0.0.1.jpeg)]
+![Screens!][Screenshot_14-8-2024_201130_127.0.0.1](https://github.com/AKMaster1709/employee-form/blob/main/assets/Screenshot_14-8-2024_201130_127.0.0.1.jpeg)
 -When last record is displayed, the last and next navigation buttons are disabled.
 ![Screenshot_14-8-2024_201215_127.0.0.1](https://github.com/AKMaster1709/employee-form/blob/main/assets/Screenshot_14-8-2024_201215_127.0.0.1.jpeg)
 -When first record is displayed, the first and previous navigation buttons are disabled.
